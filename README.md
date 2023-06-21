@@ -1,1 +1,2 @@
-# grtutoring
+# GRTutoring
+## MERN stack web application
